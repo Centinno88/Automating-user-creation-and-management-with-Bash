@@ -7,7 +7,7 @@ As a **SysOps or SysAdmin Engineer**, you are tasked with onboarding new enginee
 >*It puts measures in place for errors while running the script, creates secure files to store user lists and passwords, creates files to debug and log processes, and finally sends notifications on both the terminal and Slack, all while following best practices.*
 
 ## Usage:
-- Clone the `create_users.sh` script from this [repository](https://github.com/Centinno88/Automating-user-creation-and-management-with-Bash/blob/main/create_users.sh) to your **ubuntu server**,
+- Clone the `create_users.sh` script from this [repository](https://github.com/Centinno88/Automating-user-creation-and-management-with-Bash/blob/main/Create_users.sh#L60) to your **ubuntu server**,
 - Execute the file by running `chmod +x create_users.sh`
 - Assemble the input file which is the argument, formatted this way as shown below: usernames are differentiated by a semicolon, and groups are differentiated by a comma
 ```txt
